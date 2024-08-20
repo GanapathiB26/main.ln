@@ -1,2 +1,2 @@
 a = "bool"
-print(a)git
+print(a)
